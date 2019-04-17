@@ -1,2 +1,2 @@
-# kotlin-100
+# Kotlin 100
 Sfeir school kotlin 100
